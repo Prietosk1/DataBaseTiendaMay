@@ -1,0 +1,11 @@
+{
+  numeroPeticiones: 0,
+  peticiones: {
+    {
+      id: 1,
+      nombre: "Ejemplo",
+      edad: "100",
+      pasatiempo: "programar"
+    },
+  }
+}
